@@ -143,7 +143,22 @@
 				<subSections>
 					<ObjectPageSubSection id="PapersSectionSS1" title="Selected Journal Papers">
 						<blocks>
+							<m:VBox>
 								<m:FormattedText htmlText="{/HTMLSelectedJournalPapers}"/>
+								<m:Label design="Bold" text="Popular Tutorials" />
+								<m:Link text="K. Thirunarayan: Trust Management : Multimiodal Data Perspective." href="https://www.slideshare.net/knoesis/trust-management-tutorialcts2015"/>
+								<m:Link text="K. Thirunarayan: Big Data Challenges and Trust Management." href="https://www.slideshare.net/knoesis/big-data-and-trust-cts2016"/>
+								<m:Link text="K. Thirunarayan: Semantics-enhanced Cyberinfrastructure for ICMSE." href="https://www.slideshare.net/knoesis/semanticsenhanced-cyberinfrastructure-for-icmse-interoperability-analytics-and-applications"/>
+								<m:Label design="Bold" text="" />
+								<m:Label design="Bold" text="Book Chapters" class=""/>
+								<m:FormattedText htmlText="{/HTMLBookChapters}"/>
+								<m:Label design="Bold" text="Books" />
+								<m:FormattedText htmlText="{/HTMLBooks}"/>
+								<m:Label design="Bold" text="" />
+								<m:Label design="Bold" text="Edited Books" />
+								<m:FormattedText htmlText="{/HTMLEditedBooks}"/>
+							</m:VBox>
+								
 						</blocks>
 					</ObjectPageSubSection>
 
@@ -162,9 +177,27 @@
 			
 				<ObjectPageSection id="PprojectsSection">
 				<subSections>
-					<ObjectPageSubSection id="ProjectsSectionSS1" title="Selected Journal Projects">
+					<ObjectPageSubSection id="ProjectsSectionSS1" title="Selected Projects">
 						<blocks>
+							<m:VBox>
+							
+							<m:Text wrapping="true" text="kHealth: Semantic Multisensory Mobile Approach to Personalized Asthma Care. (NIH) (07/01/2016 to 06/30/2019)"/>
+							<m:Label text=""/>
+							<m:Text wrapping="true" text="Medical Information Decision Assistance and Support. (ONR/Milcord). (07/06/2015 to 11/05/2016)"/>
+							<m:Label text=""/>
+							<m:Text wrapping="true" text="TWC SBE: Medium: Context-Aware Harassment Detection on Social Media. (NSF). (09/01/2015 to 08/31/2018)"/>
+							<m:Label text=""/>
+							<m:Text wrapping="true" text="Hazards SEES: Social and Physical Sensing Enabled Decision Support for Disaster Management and Response. (NSF) (08/15/2015 to 07/15/2019)."/>
+							<m:Label text=""/>
+							<m:Text wrapping="true" text="Modeling Social Behavior for Healthcare Utilization in Depression. (NIH) (10/01/2015 - 06/30/2019)."/>
+							<m:Label text=""/>
+							<m:Text wrapping="true" text="Trending: Social media analysis to monitor cannabis and synthetic cannabinoid use. (NIH/NIDA) (2014-2017)"/>
+							<m:Label text=""/>
+							<m:Text wrapping="true" text="SemanticWeb-based Data Exchange and Interoperability for OEM-Supplier Collaboration, (Pratt and Whitney) (2014-2015)"/>
+							<!--<m:label text=""/>
+							<m:Link text="Semantic Platform for Open Materials Science and Engineering (2013-2016) (SemMat) (KDDM)" href="http://www.knoesis.org/research/semMat"/>-->
 							<m:FormattedText htmlText="{/HTMLProjects}"/>
+							</m:VBox>
 						</blocks>
 					</ObjectPageSubSection>
 				</subSections>
