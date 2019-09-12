@@ -45,7 +45,7 @@
 
 		<headerContent>
 			<layout:VerticalLayout>
-				<m:Link text="Department of Computer Science and Engineering | Wright State University" href="https://engineering-computer-science.wright.edu/computer-science-and-engineering"/>
+				<m:Link wrapping="true" text="Department of Computer Science and Engineering | Wright State University" href="https://engineering-computer-science.wright.edu/computer-science-and-engineering"/>
 				<m:Link text="(937)-775-5109"/>
 				<m:Link text="t.k.prasad@wright.edu"/>
 			</layout:VerticalLayout>
