@@ -184,7 +184,34 @@
 				<subSections>
 					<ObjectPageSubSection >
 						<blocks>
-							<m:FormattedText htmlText="{/ContactHTML}"/>
+							<!--<m:FormattedText htmlText="{/ContactHTML}"/>-->
+							
+		<m:QuickViewCard id="quickViewCard" pages="{path : '/pages', templateShareable : 'true'}"
+			navigate="onNavigate"
+			afterNavigate="onAfterNavigate">
+			<m:QuickViewPage
+					pageId="{pageId}"
+					header="{header}"
+					icon="{icon}"
+					title="{title}"
+					titleUrl="{titleUrl}"
+					description="{description}"
+					groups="{path : 'groups', templateShareable : 'true'}">
+				<m:QuickViewGroup heading="{heading}" elements="{path : 'elements', templateShareable : 'true'}">
+					<m:QuickViewGroupElement
+							label="{label}"
+							value="{value}"
+							url="{url}"
+							type="{elementType}"
+							pageLinkId="{pageLinkId}"
+							emailSubject="{emailSubject}"
+							target="{target}"
+							>
+					</m:QuickViewGroupElement>
+				</m:QuickViewGroup>
+			</m:QuickViewPage>
+		</m:QuickViewCard>
+	
 						</blocks>
 					</ObjectPageSubSection>
 				</subSections>
