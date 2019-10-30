@@ -15,7 +15,7 @@ sap.ui.define([
 			// $.ajax({
 			// 	url: "https://api.labs.cognitive.microsoft.com/academic/v1.0/similarity?s1=" + s1 + "&s2=" + s2,
 			// 	type: "get", //send it through get method
-			// 	headers: { 'Authorization': '29968e0b4bb74ffc9ed09c898f31fa0b','Ocp-Apim-Subscription-Key': '29968e0b4bb74ffc9ed09c898f31fa0b', 'Access-Control-Allow-Headers':'*' },
+			// 	headers: { 'Authorization': '1q29968e0b4bb74ffc9ed09c898f31fa0b','Ocp-Apim-Subscription-Key': '29968e0b4bb74ffc9ed09c898f31fa0b', 'Access-Control-Allow-Headers':'*' },
 			// 	// data: {
 			// 	// 	ajaxid: 4,
 			// 	// 	UserID: UserID,
