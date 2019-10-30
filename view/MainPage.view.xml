@@ -1,0 +1,40 @@
+<mvc:View controllerName="medhachaitanya.MAGCognitiveAPIs.controller.MainPage" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content> 
+					
+					<Panel expandable="true" headerText="Evaluate two given texts - Similarity" width="auto" class="sapUiResponsiveMargin">
+		<content>
+			<VBox>
+		<Text text="Compare the two strings and tell how much they are inter-related. Get a value from -1 to +1. Threshold value is user defined."/>
+						<Text text="eg. Natural language processing and Machine learning"/>
+						<Input type="Text" id="compare1"/>
+						<Input type="Text" id="compare2"/>
+						<Text id="Result" text="None" wrapping="true"/>
+						<Button press="button_press_evaluate" text="Initiate Request"/>
+						</VBox>
+		</content>
+	</Panel>
+					
+						<Panel expandable="true" headerText="Get the citations of a given author - Evaluate" width="auto" class="sapUiResponsiveMargin">
+		<content>
+			<VBox>
+						<Text text="Pulls the most recent of 10 Papers for demo purposes."/>
+						<Text text="eg. thirunarayan krishnaprasad"/>
+						<Input type="Text" id="getAuthor"/>
+						<Text id="ResultAuthor" text="" wrapping="true"/>
+						<Button press="button_press_author" text="Initiate Request"/>
+						</VBox>
+		</content>
+	</Panel>
+					
+						
+						
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
