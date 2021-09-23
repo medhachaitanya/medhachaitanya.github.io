@@ -63,7 +63,7 @@ about_content:  # this will include new lines to allow paragraphs
   ```diff
   + AZURE
   + SAPUI5, OPENUI5, JAVASCRIPT
-  + DEVOPS, JENKINS, NODEJS, SYSTEMS ENGINEERING
+  + DEVOPS, JENKINS, NODEJS, MONGODB, SYSTEMS ENGINEERING
   ```
 
 content:
