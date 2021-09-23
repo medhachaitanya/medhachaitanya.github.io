@@ -77,9 +77,32 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Rated as one of the best apps for battery for Windows 10. Try it to love it! 
+          Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          One of the best rated and top free apps for Windows 10 in Microsoft Store.
+          * Features: Battery Analytics and life estimates, background services, notifications and alerts, system information, settings and battery optimizations.
+          * Technologies Used: MVC, Windows Universal SDK, C#, SQLite, XAML, Telerik UI libraries.
+          * URL: https://bit.ly/2KKHPwH 
+
+      - layout: left
+        title: Copeo Timesheets
+        link: www.copeo.app
+        link_text: One
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+          # Try it to love it! 
+        description: | # this will include new lines to allow paragraphs
+          One of the best rated and top free apps for Windows 10 in Microsoft Store.
+          * Features: Battery Analytics and life estimates, background services, notifications and alerts, system information, settings and battery optimizations.
+          * Technologies Used: MVC, Windows Universal SDK, C#, SQLite, XAML, Telerik UI libraries.
+          * URL: https://bit.ly/2KKHPwH 
+  
   - title: Experience
     layout: list
     content:
@@ -99,9 +122,9 @@ content:
       - layout: top-right
         title: Wright State University
         sub_title: Masters in Computer Science
-        caption: 2019 - 2021
-        quote: >
-          We are Raiders!
+        caption: 3.6/4 CGPA, 2019 - 2021
+        # quote: >
+          # We are Raiders!
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
   - title: A Little More About Me
