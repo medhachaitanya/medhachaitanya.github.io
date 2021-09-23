@@ -120,7 +120,7 @@ content:
         quote: >
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          I am part of the design, build and implementation team. We are a fast paced team working on multiple technologies.
+          I was part of the design, build and implementation team. We are a fast paced team working on multiple technologies.
           My skills include Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development. I love my work
       
       - layout: right
