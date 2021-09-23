@@ -52,9 +52,7 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha and I'm a software engineer. In addition, I also have experience in systems engineering. 
-  
-  Ever since I am a child, building software has been my passion.
+  Hi, I go by Medha. Basically, I'm a software engineer but I also have experience in systems engineering. 
   
   I write code and build softwares that help people work better and make their life easier.
 
@@ -77,7 +75,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # quote: >
-          Try it to love it! 
+          #Try it to love it! 
         description: | # this will include new lines to allow paragraphs
           One of the best rated and top free apps for Windows 10 in Microsoft Store.
           * Features: Battery Analytics and life estimates, background services, notifications and alerts, system information, settings and battery optimizations.
