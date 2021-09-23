@@ -54,7 +54,9 @@ about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
   Hi, I go by Medha. <br /><br />I'm a software engineer but I also have good experience in systems engineering and team management. 
   <br />
+  <br />
   I love to code and build softwares that help people work better and make their life easier. I also enjoy team management.
+  <br />
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
 
@@ -123,12 +125,24 @@ content:
         #caption: Date Range (eg. November 2016 - present)
         link: www.deloitte.com
         quote: >
-          Making work, work better for everyone
+          Help clients and people excel
         description: | # this will include new lines to allow paragraphs
           Part of the integration design team for Workday integrations. 
           Part of the team that handled two go-lives for different huge clients. 
-          Other job responsibilities include Team management, planning and business analysis with the clients. 
+          Team management, planning and business analysis with the clients are my primary job responsibilities. 
           My skills include Workday Integrations, Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development.
+
+      - layout: right
+        title: Accenture
+        sub_title: Software Engineer / Application Developer
+        #caption: Date Range (eg. November 2016 - present)
+        link: www.accenture.com
+        quote: >
+          High Performance. Delivered.
+        description: | # this will include new lines to allow paragraphs
+          Part of the development team for SAPUI5 and Fiori. 
+          Received multiple awards for client innovation and individual performance.
+          My job responsibilities include being a good team player, write code and bring innovations. 
 
   - title: Education
     layout: list
