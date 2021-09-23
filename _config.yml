@@ -60,11 +60,8 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
   <br />
-  
-  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `` 
   <b style='color:green'>SAPUI5, OPENUI5, JAVASCRIPT</b>
   <br />
-  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `` 
   <b style='color:green'>AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING</b>
 
 
@@ -118,7 +115,7 @@ content:
       - layout: right
         title: Service Now
         sub_title: Systems Engineer
-        #caption: January 2021 - present
+        caption: 2021 - present
         link: www.servicenow.com
         quote: >
           Making work, work better for everyone
@@ -129,7 +126,7 @@ content:
       - layout: right
         title: Deloitte
         sub_title: Business Analyst
-        #caption: Date Range (eg. November 2016 - present)
+        caption: 2017 - 2019
         link: www.deloitte.com
         quote: >
           Help clients and people excel
@@ -141,8 +138,8 @@ content:
 
       - layout: right
         title: Accenture
-        sub_title: Software Engineer / Application Developer
-        #caption: Date Range (eg. November 2016 - present)
+        sub_title: Senior Application Developer
+        caption: 2015 - 2017
         link: www.accenture.com
         quote: >
           High Performance. Delivered.
