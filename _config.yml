@@ -82,14 +82,15 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Service Now
+        sub_title: Systems Engineer
+        #caption: Date Range (eg. November 2016 - present)
+        link: www.servicenow.com
         quote: >
-          Short description of the company (optional)
+          Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I am part of the design, build and implement team. We are a fast paced team working on multiple technologies.
+          My skills include Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development. I love my work
   - title: Education
     layout: list
     content:
