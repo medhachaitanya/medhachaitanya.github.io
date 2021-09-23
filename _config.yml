@@ -66,28 +66,28 @@ content:
       - layout: left
         title: Pure Battery Analytics
         link: https://www.microsoft.com/en-us/p/pure-battery-analytics-save-extend-battery-life/9nblggh4x4k3?activetab=pivot:overviewtab
-        link_text: See Project
-        # additional_links:
+        link_text: Link to the app
+        additional_links:
+          - title:  Github page for project 
+            icon: fab fa-github
+            url: https://github.com/medhachaitanya/Pure-Battery-Analytics
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # quote: >
-          #Try it to love it! 
+        quote: >
+          Try it to love it! 
         description: | # this will include new lines to allow paragraphs
           One of the best rated and top free apps for Windows 10 in Microsoft Store.
-          * Features: Battery Analytics and life estimates, background services, notifications and alerts, system information, settings and battery optimizations.
-          * Technologies Used: MVC, Windows Universal SDK, C#, SQLite, XAML, Telerik UI libraries.
-          * URL: https://bit.ly/2KKHPwH 
+          * A complete battery analytics app that can give information on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
+          * Built for Windows 10 using MVC, Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
+
 
       - layout: left
         title: Copeo Timesheets
         link: www.copeo.app
-        link_text: See Project
+        link_text: Link to the app
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project 
             icon: fab fa-github
             url: https://medhachaitanya.github.io/copeoapp/
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -98,9 +98,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Copeo is an employee time approval solution for small businesses, NGO's and contractors.
           * View, Approve, Reject Timesheets submitted by the employees.
-          * Assign tasks to employees.
-          * Calculate all the pay info.
-          * Various reports and profit margins.
+          * Assign tasks to the employees.
+          * Calculate all the pay info and profit margins.
+          * Analyze, view & download various reports.
           
   
   - title: Experience
