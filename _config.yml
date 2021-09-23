@@ -52,11 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content:  # this will include new lines to allow paragraphs
-I write code and build softwares that help people work better and make their life easier.
+  I write code and build softwares that help people work better and make their life easier.
 
-Ever since I am a child, software and product development has been my passion.
+  Ever since I am a child, software and product development has been my passion.
 
-I believe there's certainly yet more to learn, yet more problems to face and solve.
+  I believe there's certainly yet more to learn, yet more problems to face and solve.
 
 
 content:
