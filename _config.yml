@@ -116,6 +116,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am part of the design, build and implement team. We are a fast paced team working on multiple technologies.
           My skills include Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development. I love my work
+      
+      - layout: right
+        title: Deloitte
+        sub_title: Business Analyst
+        #caption: Date Range (eg. November 2016 - present)
+        link: www.deloitte.com
+        #quote: >
+          #Making work, work better for everyone
+        description: | # this will include new lines to allow paragraphs
+          Part of the design and development team for Workday integrations. 
+          Part of the team that handled two go-lives for huge clients. 
+          Other job responsibilities include Team management, planning and business analysis with the clients. 
+
+          My skills include Workday Integrations, Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development.
+
   - title: Education
     layout: list
     content:
@@ -127,12 +142,13 @@ content:
           # We are Raiders!
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
