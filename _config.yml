@@ -120,7 +120,7 @@ content:
         quote: >
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          I am part of the design, build and implement team. We are a fast paced team working on multiple technologies.
+          I am part of the design, build and implementation team. We are a fast paced team working on multiple technologies.
           My skills include Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development. I love my work
       
       - layout: right
@@ -132,7 +132,7 @@ content:
           Help clients and people excel
         description: | # this will include new lines to allow paragraphs
           Part of the integration design team for Workday integrations. 
-          Part of the team that handled two go-lives for different huge clients. 
+          Part of the teams that handled two successful go-lives for Workday implementation for different huge clients. 
           Team management, planning and business analysis with the clients are my primary job responsibilities. 
           My skills include Workday Integrations, Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development.
 
