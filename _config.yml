@@ -52,10 +52,10 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha. Basically, I'm a software engineer but I also have experience in systems engineering. 
-  
-  I write code and build softwares that help people work better and make their life easier.
-
+  Hi, I go by Medha. <br />Basically, I'm a software engineer but I also have good experience in systems engineering and team management. 
+  <br />
+  I love to code and build softwares that help people work better and make their life easier.
+  <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
 
 
