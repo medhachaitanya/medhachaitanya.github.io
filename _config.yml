@@ -60,12 +60,9 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
 
-  ```diff
-  + AZURE
-  + SAPUI5, OPENUI5, JAVASCRIPT
-  + DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING
-  @@ SKILLS@@
-  ```
+  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `AZURE`
+  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `SAPUI5, OPENUI5, JAVASCRIPT`
+  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING`
 
 content:
   - title: Projects # Title for the section
