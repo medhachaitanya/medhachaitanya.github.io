@@ -68,15 +68,15 @@ content:
       - layout: left
         title: Pure Battery Analytics
         link: https://www.microsoft.com/en-us/p/pure-battery-analytics-save-extend-battery-life/9nblggh4x4k3?activetab=pivot:overviewtab
-        link_text: One
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
+        link_text: See Project
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
           One of the best rated and top free apps for Windows 10 in Microsoft Store.
@@ -87,21 +87,23 @@ content:
       - layout: left
         title: Copeo Timesheets
         link: www.copeo.app
-        link_text: One
+        link_text: See Project
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://medhachaitanya.github.io/copeoapp/
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # quote: >
           # Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          One of the best rated and top free apps for Windows 10 in Microsoft Store.
-          * Features: Battery Analytics and life estimates, background services, notifications and alerts, system information, settings and battery optimizations.
-          * Technologies Used: MVC, Windows Universal SDK, C#, SQLite, XAML, Telerik UI libraries.
-          * URL: https://bit.ly/2KKHPwH 
+          Copeo is an employee time approval solution for small businesses, NGO's and contractors.
+          * View, Approve, Reject Timesheets submitted by the employees.
+          * Assign tasks to employees.
+          * Calculate all the pay info.
+          * Various reports and profit margins.
+          
   
   - title: Experience
     layout: list
