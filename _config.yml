@@ -126,7 +126,7 @@ content:
       - layout: right
         title: Deloitte
         sub_title: Business Analyst
-        caption: 2017 - 2019
+        caption: 2018 - 2019
         link: www.deloitte.com
         quote: >
           Help clients and people excel
@@ -139,7 +139,7 @@ content:
       - layout: right
         title: Accenture
         sub_title: Senior Application Developer
-        caption: 2015 - 2017
+        caption: 2015 - 2018
         link: www.accenture.com
         quote: >
           High Performance. Delivered.
