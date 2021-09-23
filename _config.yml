@@ -52,9 +52,9 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha. <br />Basically, I'm a software engineer but I also have good experience in systems engineering and team management. 
+  Hi, I go by Medha. <br /><br />I'm a software engineer but I also have good experience in systems engineering and team management. 
   <br />
-  I love to code and build softwares that help people work better and make their life easier.
+  I love to code and build softwares that help people work better and make their life easier. I also enjoy team management.
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
 
@@ -93,8 +93,8 @@ content:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # quote: >
-          # Try it to love it! 
+        quote: >
+          Simple. Precise. Super affordable.
         description: | # this will include new lines to allow paragraphs
           Copeo is an employee time approval solution for small businesses, NGO's and contractors.
           * View, Approve, Reject Timesheets submitted by the employees.
@@ -109,7 +109,7 @@ content:
       - layout: right
         title: Service Now
         sub_title: Systems Engineer
-        #caption: Date Range (eg. November 2016 - present)
+        #caption: January 2021 - present
         link: www.servicenow.com
         quote: >
           Making work, work better for everyone
@@ -122,13 +122,12 @@ content:
         sub_title: Business Analyst
         #caption: Date Range (eg. November 2016 - present)
         link: www.deloitte.com
-        #quote: >
-          #Making work, work better for everyone
+        quote: >
+          Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          Part of the design and development team for Workday integrations. 
-          Part of the team that handled two go-lives for huge clients. 
+          Part of the integration design team for Workday integrations. 
+          Part of the team that handled two go-lives for different huge clients. 
           Other job responsibilities include Team management, planning and business analysis with the clients. 
-
           My skills include Workday Integrations, Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development.
 
   - title: Education
@@ -138,17 +137,20 @@ content:
         title: Wright State University
         sub_title: Masters in Computer Science
         caption: 3.6/4 CGPA, 2019 - 2021
+      - layout: top-right
+        title: Lakireddy Balireddy College of Engineering
+        sub_title: Bachelors in Computer Science
+        caption: 3.3/4 CGPA, 2010 - 2014
         # quote: >
           # We are Raiders!
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
   
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Please refer to my LinkedIn profile to know more about my skills achievements and others. 
+      
 
 # Footer
 footer_show_references: true
