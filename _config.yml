@@ -57,12 +57,9 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   I love to code and build softwares that help people work better and make their life easier. I also enjoy team management.
   <br />
-  <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
   <br />
-  <b style='color:green'>SAPUI5, OPENUI5, JAVASCRIPT</b>
-  <br />
-  <b style='color:green'>AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>SAPUI5, OPENUI5, JAVASCRIPT,AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING</b>
 
 
 content:
