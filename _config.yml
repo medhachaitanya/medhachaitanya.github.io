@@ -59,9 +59,11 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
+  <br />
+  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `SAPUI5, OPENUI5, JAVASCRIPT`
+  <br />
+  - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING`
 
-  ** AZURE, SAPUI5, OPENUI5, JAVASCRIPT, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING **
-  ** Team management, leadership and responsibility. **
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
