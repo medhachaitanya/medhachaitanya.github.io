@@ -60,8 +60,8 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
 
-  :ballot_box_with_check: AZURE, SAPUI5, OPENUI5, JAVASCRIPT, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING
-  :ballot_box_with_check: Team management, leadership and responsibility.
+  ** AZURE, SAPUI5, OPENUI5, JAVASCRIPT, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING **
+  ** :ballot_box_with_check: Team management, leadership and responsibility. **
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
