@@ -83,7 +83,7 @@ content:
         quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          One of the best rated and top free apps for Windows 10 in Microsoft Store.
+          One of the best rated and top free apps for Windows 10 in the Microsoft Store.
           * A complete battery analytics app that can give information on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
           * Built for Windows 10 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
 
