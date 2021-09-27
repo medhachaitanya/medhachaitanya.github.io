@@ -123,7 +123,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I was part of the design, build and implementation team. We are a fast paced team working on multiple technologies.
           <br />
-          During my internship, I've built a consolidated holistic web portal that provides insights and metrics on cost, resource usage & utilization for various stakeholders(c-leadership,managers & employees) in the organization. 
+          During my internship, I've built a consolidated holistic web portal that provides insights and metrics on cost, resource usage & utilization for various stakeholders(leadership,managers & employees) in the organization. 
       
       - layout: right
         title: Deloitte
@@ -134,9 +134,12 @@ content:
           Help clients and people excel
         description: | # this will include new lines to allow paragraphs
           Part of the integration design team for Workday integrations. 
-          Part of the teams that handled two successful go-lives for Workday implementation for different huge clients. 
+          <br/>
           Team management, planning and business analysis with the clients are my primary job responsibilities. 
-          My skills include Workday Integrations, Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development.
+          <br/>
+          <p style='color:blue'>Part of the teams that handled two successful go-lives for Workday implementation for different huge clients. </p>
+
+          My primary skills for this position include Workday HCM, Workday Integrations, XML, XSLT, SOAP, Azure, Javascript.
 
       - layout: right
         title: Accenture
@@ -147,7 +150,7 @@ content:
           High Performance. Delivered.
         description: | # this will include new lines to allow paragraphs
           Part of the development team for SAPUI5 and Fiori. 
-          My job responsibilities include being a good team player, write code and bring innovations. 
+          My job responsibilities include being a good team player, write code and bring innovations. <br/>
           <p style='color:blue'>Recipient of multiple awards for client innovation and individual performance at org. level.</p>
 
   - title: Education
