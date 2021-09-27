@@ -62,7 +62,7 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   My Tech Stack
   <br />
-  <b style='color:green'>SAPUI5, JAVASCRIPT, AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>SAPUI5, JAVASCRIPT, AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
 
 
 content:
@@ -83,7 +83,7 @@ content:
         quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          <p style='color:blue'>One of the best rated and top free apps for Windows 10 in the Microsoft Store.</p>
+          <p style='color:green'>One of the best rated and top free apps for Windows 10 in the Microsoft Store.</p>
           
           * A complete battery analytics app that can give information on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
           * Built for Windows 10 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
@@ -138,7 +138,7 @@ content:
           Team management, planning and business analysis with the clients are my primary job responsibilities. 
           <br/>
           My primary skills for this position include Workday HCM, Workday Integrations, XML, XSLT, SOAP, Azure, Javascript.
-          <p style='color:blue'>Part of the teams that handled two successful go-lives for Workday implementation for different huge clients. </p>
+          <p style='color:green'>Part of the teams that handled two successful go-lives for Workday implementation for different huge clients. </p>
 
 
 
@@ -152,7 +152,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Part of the development team for SAPUI5 and Fiori. 
           My job responsibilities include being a good team player, write code and bring innovations. <br/>
-          <p style='color:blue'>Recipient of multiple awards for client innovation and individual performance at org. level.</p>
+          <p style='color:green'>Recipient of multiple awards for client innovation and individual performance at org. level.</p>
 
   - title: Education
     layout: list
