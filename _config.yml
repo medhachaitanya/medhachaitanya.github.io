@@ -83,7 +83,7 @@ content:
         quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          <b style='color:green'>One of the best rated and top free apps for Windows 10 in the Microsoft Store.</b>
+          <p style='color:blue'>One of the best rated and top free apps for Windows 10 in the Microsoft Store.</p>
           
           * A complete battery analytics app that can give information on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
           * Built for Windows 10 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
@@ -145,10 +145,9 @@ content:
         quote: >
           High Performance. Delivered.
         description: | # this will include new lines to allow paragraphs
-          <b style='color:green'>Recipient of awards for client innovation and individual performance at org level.</b>
           Part of the development team for SAPUI5 and Fiori. 
-
           My job responsibilities include being a good team player, write code and bring innovations. 
+          <p style='color:blue'>Recipient of multiple awards for client innovation and individual performance at org. level.</p>
 
   - title: Education
     layout: list
@@ -169,7 +168,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Please refer to my LinkedIn profile to know more about my skills achievements and others. 
+      Please refer to my LinkedIn profile to know more details on my skills, achievements and others. 
       
 
 # Footer
