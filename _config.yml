@@ -62,7 +62,7 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   My Tech Stack
   <br />
-  <b style='color:green'>SAPUI5, JAVASCRIPT, AZURE, DEVOPS, JENKINS, NODEJS, MONGODB, REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>AZURE, AZURE COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
 
 
 content:
@@ -138,7 +138,7 @@ content:
           Team management, planning and business analysis with the clients are my primary job responsibilities. 
           <br/>
           My primary skills for this position include Workday HCM, Workday Integrations, XML, XSLT, SOAP, Azure, Javascript.
-          I was part of the teams that made <p style='color:green'>two successful go-lives with zero prod-issues on different Workday implementations for huge clients. </p>
+          <p style='color:green'>I was part of the teams that made two successful go-lives with zero prod-issues on different Workday implementations for huge clients. </p>
 
 
 
