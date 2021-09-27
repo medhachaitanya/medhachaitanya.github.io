@@ -122,8 +122,8 @@ content:
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
           I was part of the design, build and implementation team. We are a fast paced team working on multiple technologies.
-          My skills include Azure, Docker, SAPUI5, Devops, Jenkins, Serverless functions and full-stack development.
-          All my internship, I worked on cloud cost optimization portal that provides insights on cost, resource usage & utilization for various stakeholders(c-leadership,managers & employees) on role-basis in the organization. 
+          <br />
+          During my internship, I've built a consolidated holistic web portal that provides insights and metrics on cost, resource usage & utilization for various stakeholders(c-leadership,managers & employees) in the organization. 
       
       - layout: right
         title: Deloitte
