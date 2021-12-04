@@ -175,13 +175,13 @@ content:
       - layout: right
         title: Microsoft
         sub_title: Microsoft Student Partner
-        caption: 2013 - 2014
+        caption: 2012 - 2013
         link: www.microsoft.com
         quote: >
           Your potential, our passion
         description: | # this will include new lines to allow paragraphs
           Part of the Windows Apps development team for Windows 8, 8.1.  <br/>
-          <p style='color:green'>Winner of windows 8 apps hackathon, Wowzapp.</p>
+          <p style='color:green'>Winner of Windows 8 apps hackathon, Wowzapp, 2012.</p>
           <p style='color:green'>Winner of top Community Contributor Award, Microsoft Azure.</p>
 
   - title: Education
