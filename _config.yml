@@ -92,7 +92,7 @@ content:
       - layout: left
         title: Copeo Timesheets
         link: www.copeo.app
-        link_text: Link to the app
+        link_text: https://www.copeo.app
         additional_links:
           - title:  Github page for project 
             icon: fab fa-github
