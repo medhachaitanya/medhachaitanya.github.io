@@ -62,7 +62,7 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   My Tech Stack
   <br />
-  <b style='color:green'>AZURE, AZURE COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>AZURE, AZURE CLOUD ARCHITECTURE SOLUTIONS & DESIGN, AZURE COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
 
 
 content:
@@ -138,7 +138,7 @@ content:
           Team management, planning and business analysis with the clients are my primary job responsibilities. 
           <br/>
           My primary skills for this position include Workday HCM, Workday Integrations, Business Analysis, Client Requirement Analysis, XML, XSLT, SOAP, Azure, Javascript.
-          <p style='color:green'>I was part of the teams that made two successful go-lives with zero prod-issues on different Workday implementations for huge clients. </p>
+          <p style='color:green'>I was part of the teams that made two successful go-lives on different Workday implementations for huge clients. </p>
 
 
 
@@ -164,8 +164,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Part of the Windows Apps development team for Windows 8, 8.1. 
           My job responsibilities include being a good team player, write code and bring innovations. <br/>
-          <p style='color:green'>Winner of a windows 8 apps hackathon, Wowzapp.</p>
-          <p style='color:green'>Winner of Top Community Contributor Award, Microsoft Azure.</p>
+          <p style='color:green'>Winner of windows 8 apps hackathon, Wowzapp.</p>
+          <p style='color:green'>Winner of top Community Contributor Award, Microsoft Azure.</p>
 
   - title: Education
     layout: list
