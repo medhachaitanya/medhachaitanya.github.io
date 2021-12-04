@@ -52,7 +52,7 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha. <br /><br />I'm a software engineer but I also have good experience in team management. 
+  Hi, I go by Medha. <br /><br />I'm a software engineer & a technology enthusiast having varied good experience in team management and software development. 
   <br />
   <br />
   I love to code and build softwares that help people work better and make their life easier.
@@ -162,11 +162,12 @@ content:
         quote: >
           Empowering dairy based small businesses for easy invoicing and billing
         description: | # this will include new lines to allow paragraphs
-          Part of the product design, architecture.
-          Incubated at T-Hub, Hyderabad,India. 
-          Part of NASSCOM 10000 startups, Hyderabad,India. 
+          Managed a team of 18 individuals. <br/>
+          Part of the product design, architecture.<br />
+          Incubated at T-Hub, Hyderabad,India. <br />
+          Part of NASSCOM 10000 startups, Hyderabad,India. <br />
           
-          Managed a team of 18 individuals. 
+          
           <p style='color:green'>Winner of Kotak Mahindra Innovation Hackathon. https://bit.ly/3EzTvfe.</p>
           <p style='color:green'>Top 15 winners of entrepreneurship competition, "Jumpstart" by Indian School of Business, Hyderabad.</p>
           <p style='color:green'>Listed as one of the Top 150 growing startups,2016, by Economic Times of India, IIM-Calcutta.</p>
@@ -179,8 +180,7 @@ content:
         quote: >
           Your potential, our passion
         description: | # this will include new lines to allow paragraphs
-          Part of the Windows Apps development team for Windows 8, 8.1. 
-          My job responsibilities include being a good team player, write code and bring innovations. <br/>
+          Part of the Windows Apps development team for Windows 8, 8.1.  <br/>
           <p style='color:green'>Winner of windows 8 apps hackathon, Wowzapp.</p>
           <p style='color:green'>Winner of top Community Contributor Award, Microsoft Azure.</p>
 
