@@ -62,7 +62,7 @@ about_content:  # this will include new lines to allow paragraphs
   <br />
   My Tech Stack
   <br />
-  <b style='color:green'>AZURE, AZURE CLOUD ARCHITECTURE SOLUTIONS & DESIGN, AZURE COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>AZURE, AZURE CLOUD ARCHITECTURE SOLUTIONS & DESIGN, AZURE COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, OPENUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
 
 
 content:
@@ -153,6 +153,24 @@ content:
           Part of the development team for SAPUI5 and Fiori. 
           My job responsibilities include being a good team player, write code and bring innovations. <br/>
           <p style='color:green'>Recipient of multiple awards for client innovation and individual performance at org level.</p>
+          
+      - layout: right
+        title: DailyPlus
+        sub_title: Co-Founder & Product Owner
+        caption: 2013 - 2017
+        link: www.dailyplus.app
+        quote: >
+          Empowering dairy based small businesses for easy invoicing and billing
+        description: | # this will include new lines to allow paragraphs
+          Part of the product design, architecture.
+          Incubated at T-Hub, Hyderabad,India. 
+          Part of NASSCOM 10000 startups, Hyderabad,India. 
+          
+          Managed a team of 18 individuals. 
+          My job responsibilities include being a good team player, write code and bring innovations. <br/>
+          <p style='color:green'>Winner of Kotak Mahindra Innovation Hackathon. https://bit.ly/3EzTvfe.</p>
+          <p style='color:green'>Top 15 winners of entrepreneurship competition, "Jumpstart" by Indian School of Business, Hyderabad.</p>
+          <p style='color:green'>Listed as one of the Top 150 growing startups,2016, by Economic Times of India, IIM-Calcutta.</p>
       
       - layout: right
         title: Microsoft
