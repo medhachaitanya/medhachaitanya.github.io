@@ -153,6 +153,19 @@ content:
           Part of the development team for SAPUI5 and Fiori. 
           My job responsibilities include being a good team player, write code and bring innovations. <br/>
           <p style='color:green'>Recipient of multiple awards for client innovation and individual performance at org level.</p>
+      
+      - layout: right
+        title: Microsoft
+        sub_title: Microsoft Student Partner
+        caption: 2013 - 2014
+        link: www.microsoft.com
+        quote: >
+          Your potential, our passion
+        description: | # this will include new lines to allow paragraphs
+          Part of the Windows Apps development team for Windows 8, 8.1. 
+          My job responsibilities include being a good team player, write code and bring innovations. <br/>
+          <p style='color:green'>Winner of a windows 8 apps hackathon, Wowzapp.</p>
+          <p style='color:green'>Winner of Top Community Contributor Award, Microsoft Azure.</p>
 
   - title: Education
     layout: list
