@@ -163,13 +163,13 @@ content:
           Empowering dairy based small businesses for easy invoicing and billing
         description: | # this will include new lines to allow paragraphs
           Managed a team of 18 individuals. <br/>
-          Part of the product design, architecture.<br />
-          Incubated at T-Hub, Hyderabad,India. <br />
-          Part of NASSCOM 10000 startups, Hyderabad,India. <br />
+          Part of the product design, architecture and execution.<br />
+          Incubated at T-Hub, Hyderabad, India. <br />
+          Part of NASSCOM 10000 startups, Hyderabad, India. <br />
           
           
           <p style='color:green'>Winner of Kotak Mahindra Innovation Hackathon. https://bit.ly/3EzTvfe.</p>
-          <p style='color:green'>One of the top 15 winners of the entrepreneurship competition at national level, "Jumpstart" by Indian School of Business, Hyderabad, India.</p>
+          <p style='color:green'>One of the top 15 selected startups for mentorship and incubation "Jumpstart" at the Indian School of Business, Hyderabad, India.</p>
           <p style='color:green'>Listed to be one of the top 150 growing startups, 2016, by Economic Times Power of Ideas, IIM-Calcutta, India.</p>
       
       - layout: right
