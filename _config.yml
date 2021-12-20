@@ -128,6 +128,21 @@ content:
           During my internship, I've built a consolidated holistic web portal that provides insights and metrics on cost, resource usage & utilization for various stakeholders(leadership,managers & employees) in the organization. 
       
       - layout: right
+        title: Wright State University
+        sub_title: Graduate Research Assistant
+        caption: 2019 - 2021
+        link: https://www.wright.edu/
+#         quote: >
+#           Help clients and people excel
+#         description: | # this will include new lines to allow paragraphs
+#           Part of the integration design team for Workday integrations. 
+#           <br/>
+#           Team management, planning and business analysis with the clients are my primary job responsibilities. 
+#           <br/>
+#           My primary skills for this position include Workday HCM, Workday Integrations, Business Analysis, Client Requirement Analysis, XML, XSLT, SOAP, Azure, Javascript.
+#           <p style='color:green'>Part of two successful Workday implementations for huge clients. </p>
+
+      - layout: right
         title: Deloitte
         sub_title: Business Analyst
         caption: 2018 - 2019
