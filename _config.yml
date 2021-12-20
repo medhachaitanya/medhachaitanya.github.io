@@ -97,9 +97,11 @@ content:
           - title:  Github page for project 
             icon: fab fa-github
             url: https://medhachaitanya.github.io/copeoapp/
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  LinkedIn post
+            icon: fab fa-github
+            url: https://www.linkedin.com/posts/college-of-engineering-and-computer-science_computer-science-grad-medha-karri-applauds-activity-6872570575810830338-XfSR
+        
+        
         quote: >
           Simple. Precise. Super affordable.
         description: | # this will include new lines to allow paragraphs
