@@ -116,7 +116,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Service Now
+        title: ServiceNow
         sub_title: Systems Engineer Intern
         caption: May 2020 - August 2020
         link: www.servicenow.com
