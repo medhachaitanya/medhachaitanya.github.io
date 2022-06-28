@@ -125,9 +125,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am part of the design, build and implementation team. We are a fast-paced team working on multiple technologies.
           <br />
+          <br/>
           During my internship, I proposed and built an MVP tool for Cloud Cost Monitoring & Optimization which quickly matured into an organizational level project called “Cloud Center of Excellence”.  
           <br/>
+          <br/>
           I am involved extensively in the product roadmap, system architecture, and software development. 
+          <br/>
           <br/>
           My other resposibilities include co-ordination with cross-teams, remote teams and communicating product updates with the senior management.
           <br/>
