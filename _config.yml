@@ -117,16 +117,20 @@ content:
     content:
       - layout: right
         title: ServiceNow
-        sub_title: Systems Engineer Intern
-        caption: May 2020 - August 2020
+        sub_title: Systems Engineer + Intern
+        caption: Jan 2021 - Current; May 2020 - August 2020
         link: www.servicenow.com
         quote: >
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          I was part of the design, build and implementation team. We are a fast-paced team working on multiple technologies.
+          I am part of the design, build and implementation team. We are a fast-paced team working on multiple technologies.
           <br />
-          During my internship, I've built a consolidated holistic web portal that provides insights and metrics on cost, resource usage & utilization for various stakeholders(leadership,managers & employees) in the organization. 
-      
+          During my internship, I proposed and built an MVP tool for Cloud Cost Monitoring & Optimization which quickly matured into an organizational level project called “Cloud Center of Excellence”.  
+          <br/>
+          I am involved extensively in the product roadmap, system architecture, and software development. 
+          <br/>
+          My other resposibilities include co-ordination with cross-teams, remote teams and communicating product updates with the senior management.
+          <br/>
       - layout: right
         title: Wright State University
         sub_title: Graduate Research Assistant
@@ -187,7 +191,7 @@ content:
           
           <p style='color:green'>Winner of Kotak Mahindra Innovation Hackathon. https://bit.ly/3EzTvfe.</p>
           <p style='color:green'>One of the top 15 selected startups for mentorship and incubation programme "Jumpstart" at the Indian School of Business, Hyderabad, India.</p>
-          <p style='color:green'>Listed to be one of the top 150 growing startups, 2016, by Economic Times Power of Ideas, IIM-Calcutta, India.</p>
+          <p style='color:green'>Listed in one of the top 150 growing startups, 2016, by Economic Times Power of Ideas, IIM-Calcutta, India.</p>
       
       - layout: right
         title: Microsoft
