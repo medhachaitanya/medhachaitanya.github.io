@@ -61,10 +61,10 @@ about_content:  # this will include new lines to allow paragraphs
   My Product Management Stack 
   <br />
   <b style='color:green'>Product Roadmap, Manage Tech Ambiguity, Collaborate with stakeholders, Feature delivery and tradeoffs for the product</b>
-  <br />  
+  <br />    <br />  
   My Tech Stack
   <br />
-  <b style='color:green'>AZURE, AZURE CLOUD ARCHITECTURE SOLUTIONS & DESIGN, CLOUD COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, OPENUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>AZURE CLOUD SOLUTIONS & DESIGN, CLOUD COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, OPENUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
 
 
 content:
