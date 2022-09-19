@@ -61,7 +61,8 @@ about_content:  # this will include new lines to allow paragraphs
   My Product Management Stack 
   <br />
   <b style='color:green'>Product Roadmap, Manage Tech Ambiguity, Stakeholder collaboration, Product Feature delivery</b>
-  <br />    <br />  
+  <br />    
+  <br />  
   My Tech Stack
   <br />
   <b style='color:green'>AZURE CLOUD SOLUTIONS & DESIGN, CLOUD COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, OPENUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
@@ -107,7 +108,7 @@ content:
         quote: >
           Simple. Precise. Super affordable.
         description: | # this will include new lines to allow paragraphs
-          Copeo is an employee time approval solution for small businesses, NGOs and contractors. Copeo is a runner up entry for Wright Venture, School of Business, Wright State University.
+          Copeo is an employee time approval solution for small businesses, NGOs and contractors. Copeo is a runner up entry for the Wright Venture, School of Business, Wright State University.
           * View, Approve, Reject Timesheets submitted by the employees.
           * Assign tasks to the employees.
           * Calculate all the pay info and profit margins.
