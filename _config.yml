@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Medha Karri
-title: Software & Systems Engineer
+title: Sr. Product Manager
 email: medhachaitanya@outlook.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -64,7 +64,7 @@ about_content:  # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects # Title for the section
+  - title: Notable Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,7 +81,7 @@ content:
         quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          <p style='color:green'>One of the best rated and top free apps for Windows 10 in the Microsoft Store.</p>
+          <p style='color:green'>One of the best rated and top free apps for Windows 10/11 in the Microsoft Store.</p>
           
           * A complete battery analytics app that can give information on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
           * Built for Windows 10 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
@@ -89,21 +89,21 @@ content:
 
       - layout: left
         title: Copeo Timesheets
-        link: www.copeo.app
-        link_text: https://www.copeo.app
+        link: about.copeo.app
+        link_text: https://about.copeo.app
         additional_links:
           - title:  Github page for project 
             icon: fab fa-github
             url: https://medhachaitanya.github.io/copeoapp/
           - title:  LinkedIn post
-            icon: fab fa-github
+            icon: fab fa-linkedin
             url: https://www.linkedin.com/posts/college-of-engineering-and-computer-science_computer-science-grad-medha-karri-applauds-activity-6872570575810830338-XfSR
         
         
         quote: >
           Simple. Precise. Super affordable.
         description: | # this will include new lines to allow paragraphs
-          Copeo is an employee time approval solution for small businesses, NGOs and contractors.
+          Copeo is an employee time approval solution for small businesses, NGOs and contractors. Runner up for Wright Venture, School of Business, Wright State University.
           * View, Approve, Reject Timesheets submitted by the employees.
           * Assign tasks to the employees.
           * Calculate all the pay info and profit margins.
@@ -115,7 +115,7 @@ content:
     content:
       - layout: right
         title: ServiceNow
-        sub_title: Systems Engineer + Intern
+        sub_title: Product Manager + Systems Engineer Intern
         caption: Jan 2021 - Current <br/> May 2020 - Aug 2020
         link: www.servicenow.com
         quote: >
@@ -126,10 +126,10 @@ content:
           <br/>
           During my internship, I proposed and built an MVP tool for Cloud Cost Monitoring & Optimization which quickly matured into an organizational level project called “Cloud Center of Excellence”(CCOE).  
           <br/>
-          I am involved extensively in the CCOE product roadmap, system architecture, and software development. 
+          I am extensively involved in the product features, roadmap and moderately involved in system design and software development. 
           <br/>
           <br/>
-          My other resposibilities include co-ordination with cross-teams, remote teams and communicating product updates with the senior management.
+          My other resposibilities include product strategy, co-ordination with cross-teams, remote teams and communicating product updates with the senior management.
           <br/>
       - layout: right
         title: Wright State University
@@ -177,14 +177,14 @@ content:
           
       - layout: right
         title: DailyPlus
-        sub_title: Co-Founder & Product Owner
+        sub_title: Co-Founder & CEO
         caption: 2013 - 2017
         link: https://dailyplus.app/
         quote: >
           Empowering dairy based small businesses for easy invoicing and billing
         description: | # this will include new lines to allow paragraphs
           Managed a team of 18 individuals. <br/>
-          Part of the product design, architecture and execution.<br />
+          Head of the product design, strategy and execution.<br />
           Part of the T-Hub incubator(2015-'17), Hyderabad, India. <br />
           Part of NASSCOM 10000 startups(2015-'18), Hyderabad, India. <br />
           
@@ -192,6 +192,7 @@ content:
           <p style='color:green'>Winner of Kotak Mahindra Innovation Hackathon. https://bit.ly/3EzTvfe.</p>
           <p style='color:green'>One of the top 15 selected startups for mentorship and incubation programme "Jumpstart" at the Indian School of Business, Hyderabad, India.</p>
           <p style='color:green'>Listed in one of the top 150 growing startups, 2016, by Economic Times Power of Ideas, IIM-Calcutta, India.</p>
+          <p style='color:green'>Startup acquired by a private entity.</p>
       
       - layout: right
         title: Microsoft
