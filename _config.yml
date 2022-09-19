@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Medha Karri
-title: Sr. Product Manager
+title: Sr. Product Manager Technical
 email: medhachaitanya@outlook.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-#website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -52,7 +52,7 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha. <br /><br />I'm a technology enthusiast having varied experience in product management and software development. I love to code, talk to customers and build softwares that help people work better and make their life easier.
+  Hi, I go by Medha. <br /><br />I'm a technology enthusiast having varied experience in product management and software development. I love to code, talk to customers and build softwares that empower people, work better and make the world a better place to live.
   <br />
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
@@ -139,7 +139,7 @@ content:
         title: Wright State University
         sub_title: Graduate Research Assistant
         caption: 2019 - 2021
-        link: https://www.wright.edu/
+        link: www.wright.edu/
 #         quote: >
 #           Help clients and people excel
 #         description: | # this will include new lines to allow paragraphs
