@@ -58,10 +58,9 @@ about_content:  # this will include new lines to allow paragraphs
   I believe there's certainly yet more to learn, yet more problems to face and solve.
   <br />
   <br />  
-  My Product Management Stack 
+  KEY SKILLS
   <br />
-  <b style='color:green'>KEY SKILLS
-Technical Product Management | Software Development | Adaptability | User Experience | Leadership | Communications & Training | Problem Solving | Risk Mitigation | Escalation Management | Data Analysis | Process Improvement | Project Management | Systems Design | Revenue Strategy | Product Roadmap | Tableau | Quick Sight</b>
+  <b style='color:green'>Technical Product Management | Software Development | Adaptability | User Experience | Leadership | Communications & Training | Problem Solving | Risk Mitigation | Escalation Management | Data Analysis | Process Improvement | Project Management | Systems Design | Revenue Strategy | Product Roadmap | Tableau | Quick Sight</b>
   <br />    
   <br />  
   Other Technical Skills
@@ -107,7 +106,7 @@ content:
         
         
         quote: >
-          Simple. Precise. Super affordable.
+          Simple. Precise. Free.
         description: | # this will include new lines to allow paragraphs
           Copeo is an employee time approval solution for small businesses, NGOs and contractors. Copeo is a runner up entry for the Wright Venture, School of Business, Wright State University.
           * View, Approve, Reject Timesheets submitted by the employees.
