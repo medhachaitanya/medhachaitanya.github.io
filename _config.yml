@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Medha Karri
-title: Currently in transition to a Sr. Product Manager - Technical role
+title: Sr. Product Manager - Technical, AWS S3
 email: medhachaitanya@outlook.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -60,12 +60,13 @@ about_content:  # this will include new lines to allow paragraphs
   <br />  
   My Product Management Stack 
   <br />
-  <b style='color:green'>Product Roadmap, Manage Tech Ambiguity, Stakeholder collaboration, Product Feature delivery</b>
+  <b style='color:green'>KEY SKILLS
+Technical Product Management | Software Development | Adaptability | User Experience | Leadership | Communications & Training | Problem Solving | Risk Mitigation | Escalation Management | Data Analysis | Process Improvement | Project Management | Systems Design | Revenue Strategy | Product Roadmap | Tableau | Quick Sight</b>
   <br />    
   <br />  
-  My Tech Stack
+  Other Technical Skills
   <br />
-  <b style='color:green'>AZURE CLOUD SOLUTIONS & DESIGN, CLOUD COST MANAGEMENT, DEVOPS, JENKINS, NODEJS, SAPUI5, OPENUI5, JAVASCRIPT, MONGODB, MONGODB REALM, WINDOWS UWP, WORKDAY INTEGRATIONS, SYSTEMS ENGINEERING</b>
+  <b style='color:green'>AWS, Microsoft Azure, General Cloud Computing, Cloud Systems & Infrastructure, ServiceNow Development, Web development on ReactJS, OPENUI5, SAPUI5, General DevOps, Docker, JavaScript, SAP FIORI, C#, Apache Cordova, Windows App Development (UWP)</b>
 
 
 content:
@@ -120,8 +121,8 @@ content:
     content:
       - layout: right
         title: ServiceNow
-        sub_title: Software Engineer + Intern(May 2020 - Aug 2020)
-        caption: Jan 2021 - Sep 2022
+        sub_title: Software Engineer + Intern
+        caption: Jan 2021 - Sep 2022 (FTE), May 2020 - Aug 2020 (Intern)
         link: www.servicenow.com
         quote: >
           Making work, work better for everyone
