@@ -52,7 +52,7 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha. <br /><br />I'm a technology enthusiast having varied experience in product management and software development. I like solving tech problems, talk to customers and build softwares that empower people, work better and make the world a better place to live.
+  Hi, I go by Medha. <br /><br />I'm a technology enthusiast having varied experience in product management and software development. I like solving tech problems, talk to customers and build products that empower people, work better and make the world a better place to live.
   <br />
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
@@ -74,7 +74,7 @@ content:
     content:
       - layout: left
         title: Pure Battery Analytics
-        link: https://www.microsoft.com/en-us/p/pure-battery-analytics-save-extend-battery-life/9nblggh4x4k3?activetab=pivot:overviewtab
+        link: https://apps.microsoft.com/detail/9nblggh4x4k3?hl=en-US&gl=US
         link_text: Link to the app
         additional_links:
           - title:  Github page for project 
@@ -86,33 +86,33 @@ content:
         quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          <p style='color:green'>One of the best rated and top free apps for Windows 10/11 in the Microsoft Store.</p>
+          <p style='color:green'>The best rated battery app on the Microsoft store with global 5K+ reviews and 4.78/5 average rating.</p>
           
-          * A complete battery analytics app that can give information on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
+          * Advanced battery analytics application with features on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
           * Built for Windows 10/11 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
 
 
-      - layout: left
-        title: Copeo Timesheets
-        link: about.copeo.app
-        link_text: https://about.copeo.app
-        additional_links:
-          - title:  Github page for project 
-            icon: fab fa-github
-            url: https://medhachaitanya.github.io/copeoapp/
-          - title:  LinkedIn post
-            icon: fab fa-linkedin
-            url: https://www.linkedin.com/posts/college-of-engineering-and-computer-science_computer-science-grad-medha-karri-applauds-activity-6872570575810830338-XfSR
+      # - layout: left
+      #   title: Copeo Timesheets
+      #   link: about.copeo.app
+      #   link_text: https://about.copeo.app
+      #   additional_links:
+      #     - title:  Github page for project 
+      #       icon: fab fa-github
+      #       url: https://medhachaitanya.github.io/copeoapp/
+      #     - title:  LinkedIn post
+      #       icon: fab fa-linkedin
+      #       url: https://www.linkedin.com/posts/college-of-engineering-and-computer-science_computer-science-grad-medha-karri-applauds-activity-6872570575810830338-XfSR
         
         
-        quote: >
-          Simple. Precise. Free.
-        description: | # this will include new lines to allow paragraphs
-          Copeo is an employee time approval solution for small businesses, NGOs and contractors. Copeo is a runner up entry for the Wright Venture, School of Business, Wright State University.
-          * View, Approve, Reject Timesheets submitted by the employees.
-          * Assign tasks to the employees.
-          * Calculate all the pay info and profit margins.
-          * Analyze, view & download various reports.
+      #   quote: >
+      #     Simple. Precise. Free.
+      #   description: | # this will include new lines to allow paragraphs
+      #     Copeo is an employee time approval solution for small businesses, NGOs and contractors. Copeo is a runner up entry for the Wright Venture, School of Business, Wright State University.
+      #     * View, Approve, Reject Timesheets submitted by the employees.
+      #     * Assign tasks to the employees.
+      #     * Calculate all the pay info and profit margins.
+      #     * Analyze, view & download various reports.
           
   
   - title: Previous Experience
@@ -120,15 +120,15 @@ content:
     content:
       - layout: right
         title: ServiceNow
-        sub_title: Software Engineer + Intern
-        caption: Jan 2021 - Sep 2022 (FTE), May 2020 - Aug 2020 (Intern)
+        sub_title: Sr. Software Engineer + Intern
+        caption: Jan 2021 - Sep 2022 (Full-Time), May 2020 - Aug 2020 (Internship)
         link: www.servicenow.com
         quote: >
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
           During my internship, I proposed and built an MVP tool for Cloud Cost Monitoring & Optimization which quickly matured into a product offering called “Cloud Center of Excellence Portal”(CCOE).  
           <br/>
-          I am  involved in product features, roadmap, strategy and moderately involved in the systems design and some software development components. 
+          I was involved in product features, roadmap, strategy and moderately involved in the systems design and some software development components. 
           <br/>
           <br/>
           My other resposibilities include co-ordination with cross-teams, remote teams and communicating product updates with the senior management.
@@ -191,10 +191,10 @@ content:
           Part of NASSCOM 10000 startups(2015-'18), Hyderabad, India. <br />
           
           
-          <p style='color:green'>Winner of Kotak Mahindra Innovation Hackathon. https://bit.ly/3EzTvfe.</p>
+          <p style='color:green'>Winner of Kotak Mahindra Co-Create Innovation Hackathon, a leading (ranked #4) bank in India. https://bit.ly/3EzTvfe.</p>
           <p style='color:green'>One of the top 15 selected startups for mentorship and incubation programme "Jumpstart" at the Indian School of Business, Hyderabad, India.</p>
           <p style='color:green'>Listed in one of the top 150 growing startups, 2016, by Economic Times Power of Ideas, IIM-Calcutta, India.</p>
-          <p style='color:green'>Startup acquired by a private entity.</p>
+          # <p style='color:green'>Startup acquired by a private entity.</p>
       
       - layout: right
         title: Microsoft
