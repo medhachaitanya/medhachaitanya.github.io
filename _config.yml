@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Medha Karri
-title: Sr. Product Manager - Technical, AWS S3
+title: Sr. Product Manager - Technical, Amazon Simple Email Service
 email: medhachaitanya@outlook.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,7 +52,7 @@ linkedin_username: medhakarri
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content:  # this will include new lines to allow paragraphs
-  Hi, I go by Medha. <br /><br />I'm a technology enthusiast having varied experience in product management and software development. I love to code, talk to customers and build softwares that empower people, work better and make the world a better place to live.
+  Hi, I go by Medha. <br /><br />I'm a technology enthusiast having varied experience in product management and software development. I like solving tech problems, talk to customers and build softwares that empower people, work better and make the world a better place to live.
   <br />
   <br />
   I believe there's certainly yet more to learn, yet more problems to face and solve.
@@ -115,7 +115,7 @@ content:
           * Analyze, view & download various reports.
           
   
-  - title: Experience
+  - title: Previous Experience
     layout: list
     content:
       - layout: right
