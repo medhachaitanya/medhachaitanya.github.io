@@ -77,43 +77,20 @@ content:
         link: https://apps.microsoft.com/detail/9nblggh4x4k3?hl=en-US&gl=US
         link_text: Link to the app
         additional_links:
-          - title:  Github page for project 
+          - title: GitHub Repository
             icon: fab fa-github
             url: https://github.com/medhachaitanya/Pure-Battery-Analytics
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Try it to love it! 
+          Try it, love it!
         description: | # this will include new lines to allow paragraphs
-          <p style='color:green'>The best rated battery app on the Microsoft store with 100K users globally and over 4.7/5 average global rating.</p>
-          
-          * Advanced battery analytics application with features on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
-          * Built for Windows 10/11 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
+          <p style="color:green">🚀 The **highest-rated** battery analytics app on the Microsoft Store, with **100K+ users globally** and an impressive **4.7/5 average rating**.</p>
+          <br/>
+          **Key Features:**  
+          - Provides **advanced battery analytics**, including **battery life estimates, power settings, system insights, and real-time optimizations**.  
+          - Runs **seamlessly in the background**, ensuring minimal impact on system performance.  
+          - Designed for **Windows 10/11**, leveraging **Windows Universal SDK, C#, SQLite, XAML, and Telerik UI libraries**.  
 
-
-      # - layout: left
-      #   title: Copeo Timesheets
-      #   link: about.copeo.app
-      #   link_text: https://about.copeo.app
-      #   additional_links:
-      #     - title:  Github page for project 
-      #       icon: fab fa-github
-      #       url: https://medhachaitanya.github.io/copeoapp/
-      #     - title:  LinkedIn post
-      #       icon: fab fa-linkedin
-      #       url: https://www.linkedin.com/posts/college-of-engineering-and-computer-science_computer-science-grad-medha-karri-applauds-activity-6872570575810830338-XfSR
-        
-        
-      #   quote: >
-      #     Simple. Precise. Free.
-      #   description: | # this will include new lines to allow paragraphs
-      #     Copeo is an employee time approval solution for small businesses, NGOs and contractors. Copeo is a runner up entry for the Wright Venture, School of Business, Wright State University.
-      #     * View, Approve, Reject Timesheets submitted by the employees.
-      #     * Assign tasks to the employees.
-      #     * Calculate all the pay info and profit margins.
-      #     * Analyze, view & download various reports.
-          
+    
   
   - title: Previous Experience
     layout: list
