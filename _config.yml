@@ -134,7 +134,8 @@ content:
           <br/>
           Additionally, I collaborated with **cross-functional and remote teams**, coordinated efforts across multiple departments, and regularly communicated product updates to senior management.
           <br/>
-       - layout: right
+          
+      - layout: right
         title: Wright State University
         sub_title: Graduate Research Assistant (U.S. Air Force Research Laboratory Project) 
         caption: 2019 - 2021
@@ -181,7 +182,7 @@ content:
           My job responsibilities include being a good team player, write code and bring innovations. <br/>
           <p style='color:green'>Recipient of multiple awards for client innovation and individual performance at org level.</p>
           
-           - layout: right
+      - layout: right
         title: DailyPlus
         sub_title: Co-Founder & CEO
         caption: 2013 - 2017
