@@ -126,7 +126,7 @@ content:
         quote: >
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          During my internship, I proposed and developed an MVP tool for Cloud Cost Monitoring & Optimization, which evolved into a full-fledged product offering — **Cloud Center of Excellence Portal (CCOE)**.
+          During my internship, I proposed and developed an MVP tool for Cloud Cost Monitoring & Optimization, which evolved into a full-fledged product offering — <a href="https://www.servicenow.com/products/it-operations-management/what-is-cloud-center-of-excellence.html" target="_blank"><b>Cloud Center of Excellence (CCOE)</b></a>.
           <br/>
           <br/>
           As a full-time engineer, I played a key role in defining product features, shaping the roadmap, and contributing to overall strategy. While my primary focus was on product management, I was also actively involved in **systems design** and **software development** components.
@@ -134,35 +134,38 @@ content:
           <br/>
           Additionally, I collaborated with **cross-functional and remote teams**, coordinated efforts across multiple departments, and regularly communicated product updates to senior management.
           <br/>
-      - layout: right
+       - layout: right
         title: Wright State University
-        sub_title: Graduate Research Assistant
+        sub_title: Graduate Research Assistant (U.S. Air Force Research Laboratory Project) 
         caption: 2019 - 2021
         link: www.wright.edu/
-#         quote: >
-#           Help clients and people excel
-#         description: | # this will include new lines to allow paragraphs
-#           Part of the integration design team for Workday integrations. 
-#           <br/>
-#           Team management, planning and business analysis with the clients are my primary job responsibilities. 
-#           <br/>
-#           My primary skills for this position include Workday HCM, Workday Integrations, Business Analysis, Client Requirement Analysis, XML, XSLT, SOAP, Azure, Javascript.
-#           <p style='color:green'>Part of two successful Workday implementations for huge clients. </p>
-
+        description: | # this will include new lines to allow paragraphs
+          Led the design and development of a **data mining and analytics platform** for a research initiative for U.S. Department of the Air Force.  
+          <br/>
+          <br/>
+          The platform enabled comprehensive **trend analysis** in key fields of study, supporting strategic research and innovation efforts for U.S. Air Force Science and Technology (AFRL) Strategy.  
+          <br/>
+          <br/>
+          Additional details available upon request.
+          
       - layout: right
         title: Deloitte
         sub_title: Business Analyst
         caption: 2018 - 2019
         link: www.deloitte.com
         quote: >
-          Help clients and people excel
+          Helping clients and people excel
         description: | # this will include new lines to allow paragraphs
-          Part of the integration design team for Workday integrations. 
+          Contributed to the **integration design team** for **Workday implementations**, focusing on seamless system integrations and business process automation.  
           <br/>
-          Team management, planning and business analysis with the clients are my primary job responsibilities. 
           <br/>
-          My primary skills for this position include Workday HCM, Workday Integrations, Business Analysis, Client Requirement Analysis, XML, XSLT, SOAP, Azure, Javascript.
-          <p style='color:green'>Part of two successful Workday implementations for huge clients. </p>
+          Key responsibilities included **team management, strategic planning, and business analysis**, working closely with clients to translate their requirements into effective solutions.  
+          <br/>
+          <br/>
+          **Primary skills**: Workday HCM, Workday Integrations, Business Analysis, Client Requirement Analysis, XML, XSLT, SOAP, Azure, JavaScript.  
+          <br/>
+          <br/>
+          <p style="color:green"><b>Successfully contributed to two major Workday implementations for enterprise clients.</b></p>
 
 
 
@@ -178,24 +181,30 @@ content:
           My job responsibilities include being a good team player, write code and bring innovations. <br/>
           <p style='color:green'>Recipient of multiple awards for client innovation and individual performance at org level.</p>
           
-      - layout: right
+           - layout: right
         title: DailyPlus
         sub_title: Co-Founder & CEO
         caption: 2013 - 2017
         link: https://dailyplus.app/
         quote: >
-          Empowering dairy based small businesses for easy invoicing and billing
+          Empowering dairy-based small businesses with seamless invoicing and billing solutions
         description: | # this will include new lines to allow paragraphs
-          Managed a team of 18 individuals. <br/>
-          Head of the product design, strategy and execution.<br />
-          Part of the T-Hub incubator(2015-'17), Hyderabad, India. <br />
-          Part of NASSCOM 10000 startups(2015-'18), Hyderabad, India. <br />
-          
-          
-          <p style='color:green'>Winner of Kotak Mahindra Co-Create Innovation Hackathon, a leading (ranked #4) bank in India. https://bit.ly/3EzTvfe.</p>
-          <p style='color:green'>One of the top 15 selected startups for mentorship and incubation programme "Jumpstart" at the Indian School of Business, Hyderabad, India.</p>
-          <p style='color:green'>Listed in one of the top 150 growing startups, 2016, by Economic Times Power of Ideas, IIM-Calcutta, India.</p>
-          # <p style='color:green'>Startup acquired by a private entity.</p>
+          Led and managed a **team of 18** in building and scaling DailyPlus, a digital invoicing and billing solution tailored for dairy-based small businesses.  
+          <br/>
+          <br/>
+          Spearheaded **product design, strategy, and execution**, driving innovation and market adoption.  
+          <br/>
+          <br/>
+          **Incubation & Recognition:**  
+          - Part of the **T-Hub incubator (2015-2017), Hyderabad, India**.  
+          - Part of **NASSCOM 10,000 Startups (2015-2018), Hyderabad, India**.  
+          <br/>
+          <br/>
+          **Achievements:**  
+          <p style="color:green">🏆 Winner of **Kotak Mahindra Co-Create Innovation Hackathon**, hosted by one of India's top banks (<a href="https://bit.ly/3EzTvfe" target="_blank">Learn more</a>).</p>
+          <p style="color:green">🚀 Selected among the **top 15 startups** for mentorship and incubation at the **Indian School of Business (Jumpstart Program), Hyderabad**.</p>
+          <p style="color:green">📈 Recognized among the **top 150 fastest-growing startups** in 2016 by **Economic Times Power of Ideas, IIM-Calcutta**.</p>
+          <!-- <p style="color:green">Startup acquired by a private entity.</p> -->
       
       - layout: right
         title: Microsoft
@@ -205,9 +214,13 @@ content:
         quote: >
           Your potential, our passion
         description: | # this will include new lines to allow paragraphs
-          Part of the Windows Apps development team for Windows 8, 8.1.  <br/>
-          <p style='color:green'>Winner of Windows 8 apps hackathon, Wowzapp, 2012.</p>
-          <p style='color:green'>Winner of top Community Contributor Award, Microsoft Azure.</p>
+          Contributed to the **Windows Apps development team** for **Windows 8 and 8.1**, assisting in building and optimizing applications for the platform.  
+          <br/>
+          <br/>
+          **Achievements:**  
+          <p style="color:green">🏆 **Winner of Windows 8 Apps Hackathon (Wowzapp 2012)**, a global coding competition hosted by Microsoft.</p>  
+          <p style="color:green">🚀 **Recipient of the Top Community Contributor Award** for outstanding contributions to **Microsoft Azure**.</p>
+
 
   - title: Education
     layout: list
