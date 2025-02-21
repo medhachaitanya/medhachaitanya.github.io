@@ -86,7 +86,7 @@ content:
         quote: >
           Try it to love it! 
         description: | # this will include new lines to allow paragraphs
-          <p style='color:green'>The best rated battery app on the Microsoft store with global 5K+ reviews and 4.78/5 average rating.</p>
+          <p style='color:green'>The best rated battery app on the Microsoft store with 100K users globally and over 4.7/5 average global rating.</p>
           
           * Advanced battery analytics application with features on battery life estimates, background services, power settings, system information, battery optimizations and a lot more.
           * Built for Windows 10/11 using Windows Universal SDK, C#, SQLite, XAML and Telerik UI libraries.
@@ -126,12 +126,13 @@ content:
         quote: >
           Making work, work better for everyone
         description: | # this will include new lines to allow paragraphs
-          During my internship, I proposed and built an MVP tool for Cloud Cost Monitoring & Optimization which quickly matured into a product offering called “Cloud Center of Excellence Portal”(CCOE).  
-          <br/>
-          I was involved in product features, roadmap, strategy and moderately involved in the systems design and some software development components. 
+          During my internship, I proposed and developed an MVP tool for Cloud Cost Monitoring & Optimization, which evolved into a full-fledged product offering — **Cloud Center of Excellence Portal (CCOE)**.
           <br/>
           <br/>
-          My other resposibilities include co-ordination with cross-teams, remote teams and communicating product updates with the senior management.
+          As a full-time engineer, I played a key role in defining product features, shaping the roadmap, and contributing to overall strategy. While my primary focus was on product management, I was also actively involved in **systems design** and **software development** components.
+          <br/>
+          <br/>
+          Additionally, I collaborated with **cross-functional and remote teams**, coordinated efforts across multiple departments, and regularly communicated product updates to senior management.
           <br/>
       - layout: right
         title: Wright State University
